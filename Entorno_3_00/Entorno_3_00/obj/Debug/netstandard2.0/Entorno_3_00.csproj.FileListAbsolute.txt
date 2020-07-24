@@ -1,0 +1,14 @@
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\bin\Debug\netstandard2.0\Entorno_3_00.deps.json
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\bin\Debug\netstandard2.0\Entorno_3_00.dll
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\bin\Debug\netstandard2.0\ref\Entorno_3_00.dll
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\bin\Debug\netstandard2.0\Entorno_3_00.pdb
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\Entorno_3_00.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\Entorno_3_00.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\Entorno_3_00.AssemblyInfo.cs
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\Entorno_3_00.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\Entorno_3_00.dll
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\ref\Entorno_3_00.dll
+C:\Users\juan_\source\repos\Entorno_3_00\Entorno_3_00\obj\Debug\netstandard2.0\Entorno_3_00.pdb

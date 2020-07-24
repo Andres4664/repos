@@ -4,13 +4,34 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="Entorno_3_00.MainPage">
+             x:Class="Entorno_3_00.MainPage"
+             BackgroundColor="Black">
 
-    <StackLayout>
+    <Grid>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+        <Label Text="¡Bienvenido a XAMARIN FORMS!"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontAttributes="Bold"
+               TextColor="White"/>
 
+        <Grid x:Name="SplashGrid" BackgroundColor="{StaticResource Primary}">
+            <Image x:Name="Logo"  
+                   Source="logo" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Center">
+
+                <Image.TranslationY>
+                    <OnPlatform x:TypeArguments="x:Double">
+                        <On Platform="iOS">0</On>
+                        <On Platform="Android">-12</On>
+                    </OnPlatform>
+                </Image.TranslationY>
+                
+            </Image>
+        </Grid>
+
+        
+
+    </Grid>
 </ContentPage>

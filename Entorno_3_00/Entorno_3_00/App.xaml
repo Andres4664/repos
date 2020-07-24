@@ -6,6 +6,9 @@
              mc:Ignorable="d"
              x:Class="Entorno_3_00.App">
     <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Primary">#E37A5E</Color>
+        </ResourceDictionary>
 
     </Application.Resources>
 </Application>

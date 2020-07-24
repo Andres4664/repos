@@ -17,5 +17,15 @@ namespace Entorno_3_00
         {
             InitializeComponent();
         }
+
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+            //*wait sime time
+            await Task.Delay(2000);
+
+            _ = await Task.WhenAll(SplashGrid.FadeTo(0, 2000),
+                               Logo.ScaleTo(10, 2000));
+        }
     }
 }
